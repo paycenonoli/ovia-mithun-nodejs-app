@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://18.134.198.176:9980/mithuntechnologies/repository/mithuntechno-nodejs/"
+    "registry": "http://44.207.4.131:8089/ovia-mithun/repository/ovia-nodejs/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
